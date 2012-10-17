@@ -1,0 +1,11 @@
+My version of Klondike is an application. It allows the user to cycle through 
+the waste deck as many times as they want. To move cards from one place to another 
+on the board, assuming it's a valid move, you click on the card you want to move 
+and drag the card to where you want to put it. If the card doesn't go you will
+see a message appear int he status bar on the bottom right of the interface 
+telling you the move is invalid.
+
+The scoring is described in the rules section shown when you press the "Show rules" 
+button on the bottom left of the interface.
+
+To star a new game press the "New Game" button.
